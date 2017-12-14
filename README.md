@@ -1,4 +1,5 @@
 # tina-logo.mina
+> The Tina logo as a mina-component
 
 ## Installation
 ```bash
