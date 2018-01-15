@@ -1,6 +1,6 @@
 {
   "name": "@tinajs/tina-logo.mina",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "The Tina.js logo as a mina-component",
   "main": "dist/index.mina",
   "scripts": {
