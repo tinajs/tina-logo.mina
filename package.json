@@ -1,12 +1,10 @@
 {
   "name": "@tinajs/tina-logo.mina",
   "version": "0.1.2",
-  "publishConfig": {
-    "access": "public"
-  },
-  "description": "",
+  "description": "The Tina.js logo as a mina-component",
   "main": "dist/index.mina",
   "scripts": {
+    "prepublishOnly": "npm run build",
     "build": "gulp"
   },
   "files": [
@@ -14,6 +12,17 @@
   ],
   "author": "yelo",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "url": "tinajs/tina-logo.mina",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/tinajs/tina-logo.mina/issues"
+  },
+  "homepage": "https://github.com/tinajs/tina-logo.mina#readme",
   "devDependencies": {
     "@tinajs/gulp-mina": "^0.1.0",
     "babel-core": "^6.26.0",

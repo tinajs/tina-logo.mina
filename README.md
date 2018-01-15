@@ -1,5 +1,5 @@
 # tina-logo.mina
-> The Tina logo as a mina-component
+> The Tina.js logo as a mina-component
 
 ## Installation
 ```bash
